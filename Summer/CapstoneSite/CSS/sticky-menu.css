@@ -1,0 +1,118 @@
+body {
+    width: 100%;
+    height: 100%;
+}
+html {
+    width: 100%;
+    height: 100%;
+}
+@media(min-width:767px) {
+    .navbar {
+        padding: 20px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+    .top-nav-collapse {
+        padding: 0;
+    }
+}
+#back2Top {
+    width: 40px;
+    line-height: 40px;
+    overflow: hidden;
+    z-index: 999;
+    display: none;
+    cursor: pointer;
+    -moz-transform: rotate(270deg);
+    -webkit-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+    position: fixed;
+    bottom: 50px;
+    right: 0;
+    background-color: #FFF;
+    color: #337AB7;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+}
+#back2Top:hover {
+    background-color: #337AB7;
+    color: blue;
+}
+.page-scroll1 {
+    font-size: 20px;
+}
+.page-scroll2 {
+    font-size: 30px;
+}
+
+#ImageType1 {
+    width: 50%;
+}
+#ImageType2 {
+    width: 40%;
+}
+#ImageType3 {
+    width: 30%;
+}
+.welcome-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #4B8378;
+    background: linear-gradient(to right, #2c4440,#c4ab7f,#6f8d87, #bfaa88);
+    color: #333;
+}
+.overview-section {
+    height: 100%;
+    padding-top: 40px;
+    text-align: center;
+    background: #4B8378;
+    background: linear-gradient(to right, #2c4440,#c4ab7f,#6f8d87, #bfaa88);
+    color: #333;
+}
+.discussion-section {
+    height: 100%;
+    padding-top: 40px;
+    text-align: center;
+    background: #4B8378;
+    background: linear-gradient(to right, #2c4440,#c4ab7f,#6f8d87, #bca177);
+    color: #333;
+}
+.map-section {
+    height: 84%;
+    text-align: center;
+    background: #4B8378;
+    background: linear-gradient(to right, #2c4440,#c4ab7f,#6f8d87, #bfaa88);
+    color: #333;
+}
+.image-section1 {
+    height: 100%;
+    text-align: center;
+    background: #4B8378;
+    background: linear-gradient(to right, #2c4440,#c4ab7f,#6f8d87, #bfaa88);
+    color: #333;
+}
+.footer-section {
+    height: 10%;
+    text-align: center;
+    background: #4B8378;
+    background: linear-gradient(to right, #2c4440,#c4ab7f,#6f8d87, #bca177);
+    color: #333;
+}
+.navbar-default .navbar-nav > li > a:hover {
+	color: #337AB7;
+	background-color: #7ca05ab0;
+}
+.navbar-default {
+  background: #4B8378;
+  background: linear-gradient(to right, #2c4440,#c4ab7f,#6f8d87, #bfaa88);
+  color: #333;
+  border-color: #174fa3;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #000;
+}
