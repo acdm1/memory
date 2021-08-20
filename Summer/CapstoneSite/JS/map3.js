@@ -1,23 +1,23 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoiYWNkbTEiLCJhIjoiY2toMmY5cmw0MDEyMDJ1bzR5eXZzam5paCJ9.Whiar4FcVdqRUV6VEG93Ig';
 
-const map1 = new mapboxgl.Map({
-  container: 'map1',
+const map3 = new mapboxgl.Map({
+  container: 'map3',
   // style: 'mapbox://styles/mapbox/light-v10',
   style: 'mapbox://styles/acdm1/cksgelag53qq718qxrlr0qezs',
-  center: [-122.50, 47.210],
-  zoom: 11.5,
-  pitch: 60,
+  center: [-122.560, 47.225],
+  zoom: 12,
+  // pitch: 60,
   bearing: 0,
   antialias: true
 });
 
-map1.on('load', () => {
-  map1.addSource('parks', {
+map3.on('load', () => {
+  map3.addSource('parks', {
     type: 'geojson',
     data: 'DATA/park.geojson'
   });
 
-  map1.addLayer({
+  map3.addLayer({
     'id': 'fill-in',
     'type': 'fill',
     'source': 'parks',
@@ -28,7 +28,7 @@ map1.on('load', () => {
     }
   });
 
-  map1.addLayer({
+  map3.addLayer({
     'id': 'outline',
     'type': 'line',
     'source': 'parks',
@@ -40,20 +40,20 @@ map1.on('load', () => {
   });
 });
 
-map1.on('load', () => {
-  map1.addSource('points', {
+map3.on('load', () => {
+  map3.addSource('points', {
     type: 'geojson',
     data: 'DATA//parkaudio.geojson'
   });
 
-map1.addLayer({
+map3.addLayer({
   'id': 'points',
   // 'type': 'symbol',
   'type': 'circle',
   'source': 'points',
   'paint': {
-    'circle-radius': 10,
-    'circle-stroke-width': 3,
+    'circle-radius': 15,
+    'circle-stroke-width': 5,
     'circle-color': '#0000FF',
     'circle-stroke-color': '#FFF900'
   // 'layout': {
@@ -69,7 +69,7 @@ map1.addLayer({
 });
 });
 
-map1.on('click', 'points', (e) => {
+map3.on('click', 'points', (e) => {
 
 const coordinates = e.features[0].geometry.coordinates.slice();
 const name = e.features[0].properties.name;
@@ -84,15 +84,15 @@ coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
 new mapboxgl.Popup()
 .setLngLat(coordinates)
 .setHTML(name+html+description+picture)
-.addTo(map1);
+.addTo(map3);
 });
 
-map1.on('mouseenter', 'points', () => {
-map1.getCanvas().style.cursor = 'pointer';
+map3.on('mouseenter', 'points', () => {
+map3.getCanvas().style.cursor = 'pointer';
 });
 
-map1.on('mouseleave', 'points', () => {
-map1.getCanvas().style.cursor = '';
+map3.on('mouseleave', 'points', () => {
+map3.getCanvas().style.cursor = '';
 });
 
-map1.addControl(new mapboxgl.NavigationControl());
+map3.addControl(new mapboxgl.NavigationControl());
