@@ -22,7 +22,7 @@ map.on('load', () => {
     'source': 'parks',
     'layout': {},
     'paint': {
-      'fill-color': 'green',
+      'fill-color': '#1E8500',
       'fill-opacity': 0.5
     }
   });
@@ -33,7 +33,7 @@ map.on('load', () => {
     'source': 'parks',
     'layout': {},
     'paint': {
-      'line-color': 'yellow',
+      'line-color': '#FF0000',
       'line-width': 3
     }
   });
@@ -53,8 +53,8 @@ map.addLayer({
   'paint': {
     'circle-radius': 8,
     'circle-stroke-width': 2,
-    'circle-color': 'orange',
-    'circle-stroke-color': 'purple'
+    'circle-color': '#FF00EF',
+    'circle-stroke-color': '#FFF900'
   // 'layout': {
   //   'icon-image': 'custom-marker',
   //   'text-field': ['get', 'title'],

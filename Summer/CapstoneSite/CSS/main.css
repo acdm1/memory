@@ -1,3 +1,11 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
 .mapboxgl-popup {
   max-width: 400px;
   font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
@@ -15,14 +23,49 @@ audio {
 }
 
 h1 {
+  color: #2f0202;
   font-family: 'Cinzel', serif;
 }
 h2 {
+  color: #003300;
   font-family: 'Cinzel', serif;
 }
+
 h3 {
+  color: #000000;
   font-family: 'Cinzel', serif;
 }
-p {
+
+.h3 {
+  color: #011611;
   font-family: 'Cinzel', serif;
+  font-size: 1.2em;
+}
+h4 {
+  color: #2b2900;
+  font-family: 'Cinzel', serif;
+  font-style: italic;
+}
+
+p {
+  color: #1a1901;
+  font-family: 'Cinzel', serif;
+  font-size: 1.3em;
+  font-style: italic;
+}
+
+
+a {
+  color: #7a4a00;
+  font-family: 'Cinzel', serif;
+  font-weight: 900;
+}
+
+a:focus, a:hover {
+    color:  #2b1e04;
+    text-decoration: underline;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #021803;
 }
