@@ -54,7 +54,7 @@
       "properties": {
         "name": "<strong><a href='https://www.piercecountywa.gov/1317/Chambers-Creek-Regional-Park' rel='noopener noreferrer nofollow' target='_blank'>Chambers Park Official Site Link</a></strong>",
         "html": "<p><audio width='300' height='32' src='Sounds/LoopChambers(Near Water).wav' controls='controls' loop><br />Your browser does not support the audio element.<br /></audio></p>",
-        "description":"<strong>Chambers Creek Regional Park</strong><p>This location present a wide biodiversity.</p>",
+        "description":"<strong>Chambers Creek Regional Park</strong><p>While this exact location isn’t particularly accessible, a paved and elevated path to water is available nearby. It is a main attraction to both locals and international visitors alike, and acts as a welcoming space that is less hidden than the parks of Steilacoom.</p>",
         "picture":"<p><img src='Images/Chambers1.JPG' alt='Chambers Park Picture' style='width:200px;'></p>"
       },
       "geometry": {
@@ -70,7 +70,7 @@
       "properties": {
         "name": "<strong><a href='https://www.piercecountywa.gov/1317/Chambers-Creek-Regional-Park' rel='noopener noreferrer nofollow' target='_blank'>Chambers Park Official Site Link</a></strong>",
         "html": "<p><audio width='300' height='32' src='Sounds/LoopChambers(Sports Field).wav' controls='controls' loop><br />Your browser does not support the audio element.<br /></audio></p>",
-        "description":"<strong>Chambers Creek Regional Park</strong><p>This location present a wide biodiversity.</p>",
+        "description":"<strong>Chambers Creek Regional Park</strong><p>More so than Tacoma or even Seattle, University Place parks have shown themselves to the cartographic-researcher to be a very popular international tourist spot. While the grasses of the golf course are still recovering from its hosting of the 2015 U.S. Open Golf Tournament, the area does hold potential for attracting niche crowds of wide diversities, and to serve as a site for international and local harmony to meet in amity.</p>",
         "picture":"<p><img src='Images/Chambers3.JPG' alt='Chambers Park Picture' style='width:200px;'></p>"
       },
       "geometry": {
@@ -86,7 +86,7 @@
       "properties": {
         "name": "<strong><a href='https://www.metroparkstacoma.org/place/titlow-park-lodge/' rel='noopener noreferrer nofollow' target='_blank'>Titlow Park Official Site Link</a></strong>",
         "html": "<p><audio width='300' height='32' src='Sounds/LoopTitlow(Picnic).wav' controls='controls' loop><br />Your browser does not support the audio element.<br /></audio></p>",
-        "description":"<strong>Titlow Park</strong><p>This location present a wide biodiversity.</p>",
+        "description":"<strong>Titlow Park</strong><p>At this park location on those sunny days especially, and after you grab some food from one of the small-local-restaurants, you can have an outdoor meal with your family on the small pier which also hosts picnic tables.</p>",
         "picture":"<p><img src='Images/Titlow1.JPG' alt='Titlow Park Picture' style='width:200px;'></p>"
       },
       "geometry": {
@@ -102,7 +102,7 @@
       "properties": {
         "name": "<strong><a href='https://www.metroparkstacoma.org/place/titlow-park-lodge/' rel='noopener noreferrer nofollow' target='_blank'>Titlow Park Official Site Link</a></strong>",
         "html": "<p><audio width='300' height='32' src='Sounds/LoopTitlow(Beach).wav' controls='controls' loop><br />Your browser does not support the audio element.<br /></audio></p>",
-        "description":"<strong>Titlow Park</strong><p>This location present a wide biodiversity.</p>",
+        "description":"<strong>Titlow Park</strong><p>This University Place park is an essential component of the community. Facilitating families of both local and international origin, this park is nicely structured for experiencing a nice walk through nature after small meal.</p>",
         "picture":"<p><img src='Images/Titlow2.JPG' alt='Titlow Beach Picture' style='width:200px;'></p>"
       },
       "geometry": {
@@ -118,7 +118,7 @@
       "properties": {
         "name": "<strong><a href='https://www.metroparkstacoma.org/place/point-defiance-park/' rel='noopener noreferrer nofollow' target='_blank'>Point Defiance Park Official Site Link</a></strong>",
         "html": "<p><audio width='300' height='32' src='Sounds/LoopPointDefiance.wav' controls='controls' loop><br />Your browser does not support the audio element.<br /></audio></p>",
-        "description":"<strong>Point Definace Park</strong><p>This location present a wide biodiversity.</p>",
+        "description":"<strong>Point Definace Park</strong><p>A man made waterfall dominates the recording here, and while for casual listeners it may be “louder than the others,” but this location serves very well for parents with young children. With the zoo nearby, this sonic design choice actually serves a quite productive purpose on many fronts.</p>",
         "picture":"<p><img src='Images/PointDefiance1.JPG' alt='Point Definace Picture' style='width:200px;'></p>"
       },
       "geometry": {
@@ -134,7 +134,7 @@
       "properties": {
         "name": "<strong><a href='https://www.metroparkstacoma.org/place/cummings-park/' rel='noopener noreferrer nofollow' target='_blank'>Cummings Park Official Site Link</a></strong>",
         "html": "<p><audio width='300' height='32' src='Sounds/LoopCummingsPark.wav' controls='controls' loop><br />Your browser does not support the audio element.<br /></audio></p>",
-        "description":"<strong>Cummings Park</strong><p>This location present a wide biodiversity.</p>",
+        "description":"<strong>Cummings Park</strong><p>A location perfect for relaxing at, during an after-meal-walk… This park is a nice balance of train, river, and traffic noises in particular. The evening time is busy, but with enough space to allow for a picnic or scooter ride along the wide paths.</p>",
         "picture":"<p><img src='Images/Cummings1.JPG' alt='Cummings Park Picture' style='width:200px;'></p>"
       },
       "geometry": {
@@ -150,7 +150,7 @@
       "properties": {
         "name": "<strong><a href='https://www.metroparkstacoma.org/place/jack-hyde-park/' rel='noopener noreferrer nofollow' target='_blank'>Jack Hyde Official Site Link</a></strong>",
         "html": "<p><audio width='300' height='32' src='Sounds/LoopJackHyde.wav' controls='controls' loop><br />Your browser does not support the audio element.<br /></audio></p>",
-        "description":"<strong>Jack Hyde Park</strong><p>This location present a wide biodiversity.</p>",
+        "description":"<strong>Jack Hyde Park</strong><p>Between the memorial park to the Chinese and the restaurants of the area you’ll find this spot. At higher points you’ll see people walking and resting with their dogs, while at lower points you’ll catch couples enjoying the sunset and summer air.</p>",
         "picture":"<p><img src='Images/Jack2.JPG' alt='Jack Hyde Park Picture' style='width:200px;'></p>"
       },
       "geometry": {
