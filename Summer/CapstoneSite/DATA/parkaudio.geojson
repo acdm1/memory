@@ -22,7 +22,7 @@
       "properties": {
         "name": "<strong><a href='https://townofsteilacoom.org/264/Sunnyside-Beach' rel='noopener noreferrer nofollow' target='_blank'>Sunnyside Beach Park Official Site Link</a></strong>",
         "html": "<p><audio width='300' height='32' src='Sounds/LoopSunnyside.wav' controls='controls' loop><br />Your browser does not support the audio element.<br /></audio></p>",
-        "description":"<strong>Sunnyside Beach Park</strong><p>This location present a wide biodiversity.</p>",
+        "description":"<strong>Sunnyside Beach Park</strong><p>…A scenic space for reflecting on the area’s beauty. With trains passing, birds singing, and families all enjoying the space, this location is always alive with the rhythms of the day.</p>",
         "picture":"<p><img src='Images/Sunside1.JPG' alt='Sunnyside Beach Picture' style='width:200px;'></p>"
       },
       "geometry": {
@@ -38,7 +38,7 @@
       "properties": {
         "name": "<strong><a href='https://townofsteilacoom.org/264/Sunnyside-Beach' rel='noopener noreferrer nofollow' target='_blank'>Sunnyside Beach Park Official Site Link</a></strong>",
         "html": "<p><audio width='300' height='32' src='Sounds/LoopSunnyside(Near Water).wav' controls='controls' loop><br />Your browser does not support the audio element.<br /></audio></p>",
-        "description":"<strong>Sunnyside Beach Park</strong><p>This location present a wide biodiversity.</p>",
+        "description":"<strong>Sunnyside Beach Park</strong><p>This location is a popular spot for community hosted and family events. With access to the water, you might take a kayak or body board out from this point, or just spot seals from the shore.</p>",
         "picture":"<p><img src='Images/SunSide3.JPG' alt='Sunnyside Beach Picture' style='width:200px;'></p>"
       },
       "geometry": {
